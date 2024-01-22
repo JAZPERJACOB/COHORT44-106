@@ -1,0 +1,14 @@
+main{
+    display: flex;
+    height: 100vh;
+}
+
+#sectionA{
+    background-color: aquamarine;
+    flex: 2;
+}
+
+#sectionB{
+    background-color: burlywood;
+    flex: 2;
+}
